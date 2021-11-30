@@ -1,0 +1,2 @@
+# InventoryProject
+Simple inventory project
